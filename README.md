@@ -35,7 +35,7 @@
 | Claire Jablonski | clairejab | <https://clairejab.github.io/GitHub-Assignment-1/> | 
 | Daniel Lee| Daniellee0226 |https://github.com/DanielLee0226/Daniel-Dongjun-Lee/edit/master/README.md| 
 | Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ | 
-| Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md | 
+| Ashley Reed | ashleynreed5508 | <https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md> | 
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
 | Ying(Riley) Hua |RileyHua |  https://rileyhua.github.io/Stat-184-assignment-1-/|
 | Mariam Dossayeva | mfd5485 | <https://mfd5485.github.io/MariamGitHub-Practice-184/> |
